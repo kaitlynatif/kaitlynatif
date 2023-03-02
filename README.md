@@ -19,9 +19,9 @@ I am a protein Biochemist with nine years of laboratory bench experience and ove
 
 ## 💻 My Tech Stack<br>
 
-Languages: JavaScript (AJAX, JSON), HTML, CSS, SQL, Python, C++
-Frameworks & Libraries: jQuery, Bootstrap, Materialize
-Tools: Git, GitHub, Command Line, VSCode 
+- Languages: JavaScript (AJAX, JSON), HTML, CSS, SQL, Python, C++
+- Frameworks & Libraries: jQuery, Bootstrap, Materialize
+- Tools: Git, GitHub, Command Line, VSCode 
 
 ✨ Some fun facts about me:
 * I love animals.
