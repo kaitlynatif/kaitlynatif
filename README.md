@@ -1,4 +1,4 @@
-![Profile Banner](LinkedIn Banner v3.png)
+![Profile Banner](./LinkedIn Banner v3.png)
 
 ### Hi there 👋
 
