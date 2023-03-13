@@ -1,5 +1,5 @@
 <p align="center">
-<img src='./LinkedIn Banner v3.png' alt='My Profile Banner' width='100%' style='margin: 0 auto'/>
+<img src='./LinkedIn Banner v4.png' alt='My Profile Banner' width='100%' style='margin: 0 auto'/>
 </p>
 
 ### Hi there 👋
