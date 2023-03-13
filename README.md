@@ -23,11 +23,6 @@ I am a protein Biochemist with nine years of laboratory bench experience and ove
 - Frameworks & Libraries: jQuery, Bootstrap, Materialize
 - Tools: Git, GitHub, Command Line, VSCode 
 
-✨ Some fun facts about me:
-* I love animals.
-* I love reading, swimming, hiking, and hand balancing.
-* I have a guilty pleasure for crime documentaries.
-
 ## ⛓ My Links
 * LinkedIn: https://www.linkedin.com/in/kaitlyn-atif
 * Resume: https://app.enhancv.com/share/d40f5841/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic
