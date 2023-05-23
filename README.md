@@ -25,7 +25,7 @@ I am a protein Biochemist with nine years of laboratory bench experience and ove
 
 ## ⛓ My Links
 * LinkedIn: https://www.linkedin.com/in/kaitlyn-atif
-* Resume: https://app.enhancv.com/share/d40f5841/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic
+* Resume: [Click here.](https://docs.google.com/document/d/1CHWBDOIqKxRqLzFAYzwyBkJ0arhWOtL4Llaiw2eimps/edit?usp=sharing)
 
 ✉️ Contact me
 * Email: kaitlynatif90@hotmail.com
