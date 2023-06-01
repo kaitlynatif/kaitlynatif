@@ -23,7 +23,8 @@ I am a protein Biochemist with nine years of laboratory bench experience and ove
 
 - Languages: JavaScript (AJAX, JSON), HTML, CSS, SQL, MERN Stack, Python, C++
 - Frameworks & Libraries: jQuery, Bootstrap, Materialize
-- Tools: Git, GitHub, Command Line, VSCode 
+- Databases: MySQL, MongoDB.
+- Tools: Git, GitHub, GitHub Pages, Command Line, VSCode
 
 ## ⛓ My Links
 * LinkedIn: https://www.linkedin.com/in/kaitlyn-atif
