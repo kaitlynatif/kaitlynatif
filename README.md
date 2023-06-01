@@ -9,7 +9,7 @@ I am a protein Biochemist with nine years of laboratory bench experience and ove
 **I am open to collaborate on interesting and innovative projects.**
 
 - 🔭 I’m currently building my portfolio through my work via the Full-Stack Web Development Boot Camp at the Georgia Institute of Technology.
-- 🌱 I’m currently learning ...
+- 💻 The tech stack I’m currently learning ...
   - Computer science applied to Javascript: Algorithms (Searches, Sorts), Performance, Time Complexity, Big O Notation, Data Structures, Design Patterns.
   - Browser-based technologies: HTML, CSS, JavaScript, jQuery, Responsive Design, Bootstrap, Progressive Web Applications (PWAs), Local Storage, Session     Storage, IndexedDB, React.js.
   - API Design: Client-Server Model API, REST, JSON, AJAX (Fetch API), HTTP request methods, GraphQL.
@@ -17,14 +17,8 @@ I am a protein Biochemist with nine years of laboratory bench experience and ove
   - Deployment and Delivery: Heroku, Git, GitHub Pages, Shell Scripting, Unit Testing, Linting, Continuous Integration.
   - Server Side Development: Node.js, Express.js, User Authentication, Template Engines, MERN Stack
   (MongoDB, Express.js, React.js, Node.js).
-  - Python, Java, Amazon Web Servers (AWS), C#
-
-## 💻 My Tech Stack<br>
-
-- Languages: JavaScript (AJAX, JSON), HTML, CSS, SQL, MERN Stack, Python, C++
-- Frameworks & Libraries: jQuery, Bootstrap, Materialize
-- Databases: MySQL, MongoDB.
-- Tools: Git, GitHub, GitHub Pages, Command Line, VSCode
+  - Languages: JavaScript, Python, Java, Amazon Web Servers (AWS), C#
+  - Tools: VS Code, Command Line
 
 ## ⛓ My Links
 * LinkedIn: https://www.linkedin.com/in/kaitlyn-atif
