@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-I am a protein Biochemist with nine years of laboratory bench experience and over five years of experience in IgG therapeutics—specifically the downstream stages of the mAb (monoclonal antibody) drug development process—aspiring to pivot into a remote role as a full-stack engineer. I have a strong foundation in experiment design, process development, data analysis, troubleshooting, and working in team-oriented and collaborative environments.
+I am a protein Biochemist with nine years of laboratory bench experience and over five years of experience in IgG therapeutics—specifically the downstream stages of the mAb (monoclonal antibody) drug development process—aspiring to pivot into a remote role as a full-stack software developer. I have a strong foundation in experiment design, process development, data analysis, troubleshooting, and working in team-oriented and collaborative environments.
 
 **I am open to collaborate on interesting and innovative projects.**
 
