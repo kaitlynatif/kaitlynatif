@@ -31,7 +31,7 @@ I am a protein Biochemist with over ten years of laboratory bench experience and
       <h3 align="center">Tech Blog</h3>
         <br />
         <a target="_blank" href="https://obscure-beach-63742.herokuapp.com/">
-            <img src="./" width="100%" alt="Tech Blog"/>
+            <img src="./TechBlog.png" width="100%" alt="Tech Blog"/>
         </a>
         <br />
         <p align="center">
@@ -49,7 +49,7 @@ I am a protein Biochemist with over ten years of laboratory bench experience and
       <h3 align="center">Weather Forecast Dashboard</h3>
         <br />
       <a target="_blank" href="https://kaitlynatif.github.io/Weather_Forecast_Dashboard/">
-            <img src="./" width="100%"  alt="Gym App"/>
+            <img src="./Weather.png" width="100%"  alt="Gym App"/>
         </a>
         <br />
         <p align="center">
@@ -70,7 +70,7 @@ I am a protein Biochemist with over ten years of laboratory bench experience and
       <h3 align="center">Random Password Generator</h3>
       <br />
         <a target="_blank" href="https://kaitlynatif.github.io/Random_Password_Generator/">
-          <img src="./" width="100%" alt="Random Password Generator"/>
+          <img src="./Password.png" width="100%" alt="Random Password Generator"/>
         </a>
       <br />
         <p align="center">
@@ -87,7 +87,7 @@ I am a protein Biochemist with over ten years of laboratory bench experience and
       <h3 align="center">JavaScript Quiz</h3>
         <br />
         <a target="_blank" href="https://kaitlynatif.github.io/Coding_Quiz/">
-          <img src="./" width="100%" alt="JavaScript Quiz"/>
+          <img src="./JavaScriptQuiz.png" width="100%" alt="JavaScript Quiz"/>
         </a>
         <br />
         <p align="center">
