@@ -9,8 +9,6 @@
                  </p>
 I am a protein Biochemist with over ten years of laboratory bench experience and over five years of experience in IgG therapeutics—specifically the downstream stages of the mAb (monoclonal antibody) drug development process—aspiring to pivot into a role as a full-stack software developer. I have a strong foundation in experiment design, process development, data analysis, troubleshooting, and working in team-oriented and collaborative environments.
 
-<p>**I am open to collaborate on interesting and innovative projects.**</p>
-
 - 🔭 I’m currently building my portfolio through my work via the Full-Stack Web Development Boot Camp at the Georgia Institute of Technology.
 - 💻 The tech stack I’m currently learning ...
   - Computer science applied to Javascript: Algorithms (Searches, Sorts), Performance, Time Complexity, Big O Notation, Data Structures, Design Patterns.
