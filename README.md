@@ -28,22 +28,22 @@ I am a protein Biochemist with over ten years of laboratory bench experience and
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Tech Blog</h3>
+      <h3 align="center">React Portfolio</h3>
         <br />
-        <a target="_blank" href="https://obscure-beach-63742.herokuapp.com/">
-            <img src="./TechBlog.png" width="100%" alt="Tech Blog"/>
+        <a target="_blank" href="https://kaitlynatif.github.io/React_Portfolio/">
+            <img src="./ReactPortfolio.png" width="100%" alt="React Portfolio"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/kaitlynatif/Tech_Blog" target="_blank">
+  <a href="https://github.com/kaitlynatif/React_Portfolio" target="_blank">
     Repository
   </a> | 
-  <a href="https://obscure-beach-63742.herokuapp.com/" target="_blank">
+  <a href="https://kaitlynatif.github.io/React_Portfolio/" target="_blank">
     Live Demo
   </a>
       </p>
-        <p><strong>A CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well.</p>
+        <p><strong>A single-page application web development portfolio, showcasing my experience and proficiency in building React applications.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Weather Forecast Dashboard</h3>
