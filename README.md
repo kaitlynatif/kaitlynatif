@@ -5,7 +5,7 @@
 <h1 align="center">Greetings, my name is Kaitlyn Flower</h1>
 <h3 align="center">Protein Biochemist | Full-Stack Software Developer</h3>
 <p align="center">
-                 <a href="mailto:kaitlynmarieflower@gmail.com">Email</a> | <a href="https://linkedin.com/in/kaitlyn-flower">LinkedIn</a> | <a href="https://kaitlynatif.github.io/React_Portfolio/">Portfolio</a> | <a href="https://docs.google.com/document/d/1CHWBDOIqKxRqLzFAYzwyBkJ0arhWOtL4Llaiw2eimps/edit?usp=sharing">Resume</a>
+                 <a href="mailto:kaitlynmarieflower@gmail.com">Email</a> | <a href="https://linkedin.com/in/kaitlyn-flower">LinkedIn</a> | <a href="https://kaitlynflower.github.io/React_Portfolio/">Portfolio</a> | <a href="https://docs.google.com/document/d/1CHWBDOIqKxRqLzFAYzwyBkJ0arhWOtL4Llaiw2eimps/edit?usp=sharing">Resume</a>
                  </p>
 <p>
 I am a protein Biochemist with over ten years of laboratory bench experience and over five years of experience in IgG therapeutics—specifically the downstream stages of the mAb (monoclonal antibody) drug development process—aspiring to pivot into a role as a full-stack software developer. I have a strong foundation in experiment design, process development, data analysis, troubleshooting, and working in team-oriented and collaborative environments.
@@ -30,16 +30,16 @@ I am a protein Biochemist with over ten years of laboratory bench experience and
     <td width="50%" valign="top">
       <h3 align="center">React Portfolio</h3>
         <br />
-        <a target="_blank" href="https://kaitlynatif.github.io/React_Portfolio/">
+        <a target="_blank" href="https://kaitlynflower.github.io/React_Portfolio/">
             <img src="./ReactPortfolio.png" width="100%" alt="React Portfolio"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/kaitlynatif/React_Portfolio" target="_blank">
+  <a href="https://github.com/kaitlynflower/React_Portfolio" target="_blank">
     Repository
   </a> | 
-  <a href="https://kaitlynatif.github.io/React_Portfolio/" target="_blank">
+  <a href="https://kaitlynflower.github.io/React_Portfolio/" target="_blank">
     Live Demo
   </a>
       </p>
@@ -48,16 +48,16 @@ I am a protein Biochemist with over ten years of laboratory bench experience and
     <td width="50%" valign="top">
       <h3 align="center">Weather Forecast Dashboard</h3>
         <br />
-      <a target="_blank" href="https://kaitlynatif.github.io/Weather_Forecast_Dashboard/">
+      <a target="_blank" href="https://kaitlynflower.github.io/Weather_Forecast_Dashboard/">
             <img src="./Weather.png" width="100%"  alt="Gym App"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/kaitlynatif/Weather_Forecast_Dashboard" target="_blank">
+  <a href="https://github.com/kaitlynflower/Weather_Forecast_Dashboard" target="_blank">
     Repository
   </a> | 
-  <a href="https://kaitlynatif.github.io/Weather_Forecast_Dashboard/" target="_blank">
+  <a href="https://kaitlynflower.github.io/Weather_Forecast_Dashboard/" target="_blank">
     Live Demo
   </a>
       </p>
@@ -69,15 +69,15 @@ I am a protein Biochemist with over ten years of laboratory bench experience and
     <td width="50%" valign="top">
       <h3 align="center">Random Password Generator</h3>
       <br />
-        <a target="_blank" href="https://kaitlynatif.github.io/Random_Password_Generator/">
+        <a target="_blank" href="https://kaitlynflower.github.io/Random_Password_Generator/">
           <img src="./Password.png" width="100%" alt="Random Password Generator"/>
         </a>
       <br />
         <p align="center">
-  <a href="https://github.com/kaitlynatif/Random_Password_Generator" target="_blank">
+  <a href="https://github.com/kaitlynflower/Random_Password_Generator" target="_blank">
     Repository
   </a> | 
-  <a href="https://kaitlynatif.github.io/Random_Password_Generator/" target="_blank">
+  <a href="https://kaitlynflower.github.io/Random_Password_Generator/" target="_blank">
     Live Demo
   </a>
       </p>
@@ -86,16 +86,16 @@ I am a protein Biochemist with over ten years of laboratory bench experience and
     <td width="50%" valign="top">
       <h3 align="center">JavaScript Quiz</h3>
         <br />
-        <a target="_blank" href="https://kaitlynatif.github.io/Coding_Quiz/">
+        <a target="_blank" href="https://kaitlynflower.github.io/Coding_Quiz/">
           <img src="./JavaScriptQuiz.png" width="100%" alt="JavaScript Quiz"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/kaitlynatif/Coding_Quiz" target="_blank">
+  <a href="https://github.com/kaitlynflower/Coding_Quiz" target="_blank">
     Repository
   </a> | 
-  <a href="https://kaitlynatif.github.io/Coding_Quiz/" target="_blank">
+  <a href="https://kaitlynflower.github.io/Coding_Quiz/" target="_blank">
     Video Demo
   </a>
       </p>
