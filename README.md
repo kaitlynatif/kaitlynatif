@@ -2,10 +2,10 @@
 <img src='./LinkedIn Banner v4.png' alt='My Profile Banner' width='100%' style='margin: 0 auto'/>
 </p>
 
-<h1 align="center">Greetings, my name is Kaitlyn Atif</h1>
+<h1 align="center">Greetings, my name is Kaitlyn Flower</h1>
 <h3 align="center">Protein Biochemist | Full-Stack Software Developer</h3>
 <p align="center">
-                 <a href="mailto:kaitlynatif90@hotmail.com">Email</a> | <a href="https://linkedin.com/in/kaitlyn-atif">LinkedIn</a> | <a href="https://kaitlynatif.github.io/React_Portfolio/">Portfolio</a> | <a href="https://docs.google.com/document/d/1CHWBDOIqKxRqLzFAYzwyBkJ0arhWOtL4Llaiw2eimps/edit?usp=sharing">Resume</a>
+                 <a href="mailto:kaitlynmarieflower@gmail.com">Email</a> | <a href="https://linkedin.com/in/kaitlyn-flower">LinkedIn</a> | <a href="https://kaitlynatif.github.io/React_Portfolio/">Portfolio</a> | <a href="https://docs.google.com/document/d/1CHWBDOIqKxRqLzFAYzwyBkJ0arhWOtL4Llaiw2eimps/edit?usp=sharing">Resume</a>
                  </p>
 <p>
 I am a protein Biochemist with over ten years of laboratory bench experience and over five years of experience in IgG therapeutics—specifically the downstream stages of the mAb (monoclonal antibody) drug development process—aspiring to pivot into a role as a full-stack software developer. I have a strong foundation in experiment design, process development, data analysis, troubleshooting, and working in team-oriented and collaborative environments.
