@@ -1,5 +1,5 @@
 <p align="center">
-<img src='./LinkedIn Banner v4.png' alt='My Profile Banner' width='100%' style='margin: 0 auto'/>
+<img src='./White Minimalist Profile LinkedIn Banner.png' alt='My Profile Banner' width='100%' style='margin: 0 auto'/>
 </p>
 
 <h1 align="center">Greetings, my name is Kaitlyn Flower</h1>
